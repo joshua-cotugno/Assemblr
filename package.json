@@ -1,0 +1,13 @@
+{
+  "name": "Assemblr",
+  "version": "0.0.1",
+  "description": "Assembly Language Learning Tool",
+  "main": "index.js",
+  "repository": "https://github.com/joshua-cotugno/Assemblr.git",
+  "author": "Joshua Cotugno <jojotraingeek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "packageManager": "yarn@4.0.2"
+}
